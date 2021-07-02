@@ -1,21 +1,17 @@
-#RECRIAÇÃO DA INTERFACE DE LOGIN DO INSTAGRAM
+# PÁGINA DE LOGIN DO INSTAGRAM
 
-- Os links da pagina não levão a nem um lugar,pois o intuito era so desenvolver minhas abilidades em dev front end e tambem não é a pagina oficial.
+Projeto completo.
 
+## Conteúdo do repossitório
 
+| Arquivo/Pasta | Conteudo          |
+| ------------- | ----------------- |
+| img           | imagens           |
+| html          | código html       |
+| css           | configurações css |
 
-##Pasta img:
+Recriação da página de login do instagram.
 
-- Contem as fotos utilizadas na criação da pagina.
+## Rodando a aplicação
 
-
-
-##Arquivo indexl:
-
-- Contem toda estrutura html da pagina.
-
-
-
-##Arquivo style:
-
-- Contem as configurações de estilo css.
+basta abrir o index com o um navegador.
