@@ -1,6 +1,6 @@
 # PÁGINA DE LOGIN DO INSTAGRAM
 
-Projeto completo.
+Clone da página inicial do instagram
 
 ## Conteúdo do repossitório
 
